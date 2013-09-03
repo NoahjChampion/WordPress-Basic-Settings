@@ -23,7 +23,7 @@ function set_toscho_defaults()
         'default_post_edit_rows'    => 30,
         'links_updated_date_format' => 'j. F Y, H:i',
         'permalink_structure'       => '/%postname%/',
-        'rss_language'              => 'de',
+        'rss_language'              => 'en',
         'start_of_week'             => 1,
         'timezone_string'           => 'Etc/GMT-1',
         'use_smilies'               => 0
