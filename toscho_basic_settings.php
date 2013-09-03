@@ -22,7 +22,7 @@ function set_toscho_defaults()
         'default_ping_status'       => 'closed',
         'default_post_edit_rows'    => 30,
         'links_updated_date_format' => 'j. F Y, H:i',
-        'permalink_structure'       => '/%year%/%postname%/',
+        'permalink_structure'       => '/%postname%/',
         'rss_language'              => 'de',
         'start_of_week'             => 1,
         'timezone_string'           => 'Etc/GMT-1',
